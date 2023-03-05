@@ -12,11 +12,11 @@ const frameworks = [
     {
         name:"7 años", 
         description:"•  Me mudé de mi hogar ubicado en El Mezquital, fuí a vivir a Planes de Barcenas.",
-        description2:"• Me cambiaron de colegio a PC-Cito en Villa Nueva."
+        description2:"• Me cambiaron de colegio a PC-Cito, ubicado en Villa Nueva."
     },
     {
         name:"10 años", 
-        description:"•  Salí del país por primera vez. viajé a El Salvador.",
+        description:"•  Salí del país por primera vez, viajé a El Salvador.",
         description2:"• Conocí a mi primer mejor amigo, llamado Victor Ezquivel."
     },
     {
