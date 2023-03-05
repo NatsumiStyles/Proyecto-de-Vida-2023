@@ -1,17 +1,17 @@
 const frameworks = [
     {
         name:"2 años", 
-        description:"•  Dí mis primeros pasos",
-        description2:"• Aprendí a hablar"
+        description:"•  Dí mis primeros pasos.",
+        description2:"• Aprendí a hablar."
     },
     {
         name:"4 años", 
-        description:"•  Entré a estudiar en PC-Cito, en Aguilar Batres",
+        description:"•  Entré a estudiar en PC-Cito, ubicado en Aguilar Batres.",
         description2:"• Me regalaron mi primera consola de videojuegos, la Nintendo WII."
     },
     {
         name:"7 años", 
-        description:"•  Me mudé de hogar del Mezquital, hacia Planes de Barcenas",
+        description:"•  Me mudé de mi hogar ubicado en El Mezquital, fuí a vivir a Planes de Barcenas.",
         description2:"• Me cambiaron de colegio a PC-Cito en Villa Nueva."
     },
     {
@@ -21,18 +21,18 @@ const frameworks = [
     },
     {
         name:"12 años", 
-        description:"•  Participé y gané en mi primera competencia de ingles",
-        description2:"• Me rompí la pierna por saltar entre rocas"
+        description:"•  Participé y gané en mi primera competencia de ingles.",
+        description2:"• Me rompí la pierna por saltar entre rocas."
     },
     {
         name:"14 años", 
         description:"•  Comenzé a trabajar por primera vez.",
-        description2:"• Me gradué de secundaria"
+        description2:"• Me gradué de secundaria."
     },
     {
         name:"16 años", 
         description:"•  Me dió Covid",
-        description2:"• Estoy culminando mi carrera"
+        description2:"• Estoy culminando mi carrera."
     }
 ]
 
