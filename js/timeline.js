@@ -30,7 +30,7 @@ const frameworks = [
         description2:"• Me gradué de secundaria"
     },
     {
-        name:"17 años", 
+        name:"16 años", 
         description:"•  Me dió Covid",
         description2:"• Estoy culminando mi carrera"
     }
@@ -67,8 +67,8 @@ window.addEventListener("scroll",e=>{
 })
 
 console.log("4 Marzo (2023) - 7:43 horas de codificación");
-console.log("5 Marzo (2023) - 14:03 horas de codificación");
-console.log("Casi 21 horas de programación, dedicadas a todos mis amigos que conocí estos 2 ultimos años, por los que están y los que no. Cambien el mundo, mi mensaje final");
+console.log("5 Marzo (2023) - 14:27 horas de codificación");
+console.log("Casi 22.2 horas de programación, dedicadas a todos mis amigos que conocí estos 2 ultimos años, por los que están y los que no. Cambien el mundo, mi mensaje final...");
 console.log("Adios los amo.");
 console.log("-Steven ARZ-");
 
