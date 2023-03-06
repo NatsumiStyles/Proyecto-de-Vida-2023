@@ -1,7 +1,7 @@
 const frameworks = [
     {
         name:"2 años", 
-        description:"•  Dí mis primeros pasos.",
+        description:"•  Di mis primeros pasos.",
         description2:"• Aprendí a hablar."
     },
     {
@@ -11,27 +11,27 @@ const frameworks = [
     },
     {
         name:"7 años", 
-        description:"•  Me mudé de mi hogar ubicado en El Mezquital, fuí a vivir a Planes de Barcenas.",
+        description:"•  Me mudé de mi hogar ubicado en El Mezquital, fui a vivir a Planes de Bárcenas.",
         description2:"• Me cambiaron de colegio a PC-Cito, ubicado en Villa Nueva."
     },
     {
         name:"10 años", 
         description:"•  Salí del país por primera vez, viajé a El Salvador.",
-        description2:"• Conocí a mi primer mejor amigo, llamado Victor Ezquivel."
+        description2:"• Conocí a mi primer mejor amigo, llamado Victor Esquivel."
     },
     {
         name:"12 años", 
-        description:"•  Participé y gané en mi primera competencia de ingles.",
+        description:"•  Participé y gané en mi primera competencia de inglés.",
         description2:"• Me rompí la pierna por saltar entre rocas."
     },
     {
         name:"14 años", 
-        description:"•  Comenzé a trabajar por primera vez.",
+        description:"•  Comencé a trabajar por primera vez.",
         description2:"• Me gradué de secundaria."
     },
     {
         name:"16 años", 
-        description:"•  Me dió Covid",
+        description:"•  Me dio COVID",
         description2:"• Estoy culminando mi carrera."
     }
 ]
