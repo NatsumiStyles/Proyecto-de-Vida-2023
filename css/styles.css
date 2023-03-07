@@ -125,7 +125,7 @@ i{
 /* TODA LA TIMELINEEEEEEEEEEEEEEEEE*/
 
 .lineaTiempo{
-    background: black url(../imgs/wp1.gif) center fixed no-repeat;
+    background: black url(../imgs/wp.png) center fixed no-repeat;
     background-size: cover;
 }
 
@@ -135,7 +135,7 @@ i{
     background: white;
     width: 1px;
     left: 50%;
-    height: 1880px;
+    height: 2050px;
 }
 .child{
     position: relative;
